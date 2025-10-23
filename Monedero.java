@@ -13,6 +13,4 @@ public class Monedero{
     public int cantidadIntroducida(){
 
     }
-
-    
 }
